@@ -1,7 +1,7 @@
 {
   "appname": "Buyer App",
   "scope": "FullAccess",
-  "clientid": "C2741F29-6890-4EA9-9A31-9A81FD115CCA",
+  "clientid": "F286B844-C604-4081-9D22-F79EA176D8DC",
   "buyerid": "cafebiba",
   "catalogid": "defaultcupscatalog",
   "environment": "prod",
