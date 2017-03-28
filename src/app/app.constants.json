@@ -1,9 +1,9 @@
 {
   "appname": "Buyer App",
   "scope": "FullAccess",
-  "clientid": "D9657942-0288-4092-BB67-9AC0EFEFFBE3",
-  "buyerid": "cafebiba",
-  "catalogid": "defaultcupscatalog",
+  "clientid": "1C6C4112-3F5D-479C-9CB8-872BD2667194",
+  "buyerid": "12353234",
+  "catalogid": "SHARED",
   "environment": "prod",
   "defaultstate": "home",
   "anonymous": false,
