@@ -2,7 +2,7 @@
   "appname": "Buyer App",
   "scope": "FullAccess",
   "clientid": "70836978-8494-4C33-9296-6BAB2E6CB1F0",
-  "buyerid": "12353234",
+  "buyerid": "caferio",
   "catalogid": "SHARED",
   "environment": "prod",
   "defaultstate": "home",
