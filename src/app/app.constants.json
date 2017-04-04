@@ -1,8 +1,8 @@
 {
   "appname": "Buyer App",
   "scope": "FullAccess",
-  "clientid": "7FC87166-D42A-4F2D-9587-159D98156314",
-  "buyerid": "caferio",
+  "clientid": "51CAACAA-96FE-4E0F-BCB0-F1B4F65E5232",
+  "buyerid": "PizzaLuce",
   "catalogid": "SHARED",
   "environment": "prod",
   "defaultstate": "home",
