@@ -1,9 +1,9 @@
 {
-  "appname": "Cafe Rio",
+  "appname": "eTundra",
   "scope": ["FullAccess"],
-  "clientid": "AE5F4C8E-0F07-4A46-8762-6F757FF515F4",
+  "clientid": "70836978-8494-4C33-9296-6BAB2E6CB1F0",
   "catalogid": "caferio",
-  "environment": "staging",
+  "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
   "bootswatchtheme": "yeti"
