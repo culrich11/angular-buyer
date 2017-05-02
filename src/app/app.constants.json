@@ -1,6 +1,6 @@
 {
   "appname": "eTundra",
-  "scope": ["FullAccess"],
+  "scope": "FullAccess",
   "clientid": "70836978-8494-4C33-9296-6BAB2E6CB1F0",
   "catalogid": "caferio",
   "environment": "prod",
