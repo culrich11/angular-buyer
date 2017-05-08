@@ -1,9 +1,9 @@
 {
   "appname": "eTundra Customer App",
   "scope": ["FullAccess"],
-  "buyerid": "etundra",
-  "clientid": "45A3E51F-3B1D-4590-8C57-65D44AA46655",
-  "catalogid": "etundra",
+  "buyerid": "caferio",
+  "clientid": "7FC87166-D42A-4F2D-9587-159D98156314",
+  "catalogid": "caferio",
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
