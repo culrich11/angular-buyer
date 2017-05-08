@@ -1,21 +1,11 @@
 {
-  "appname": "Angular Buyer",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
-  "buyerid": "XXXX",
-  "anonymous": false,
-  "catalogid": "XXXX",
+  "appname": "Cafe Rio",
+  "scope": ["FullAccess"],
+  "buyerid": "caferio",
+  "clientid": "AE5F4C8E-0F07-4A46-8762-6F757FF515F4",
+  "catalogid": "caferio",
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": null,
-  "scope": [
-      "BuyerReader", 
-      "MeAdmin", 
-      "MeXpAdmin", 
-      "MeAddressAdmin", 
-      "MeCreditCardAdmin", 
-      "Shopper", 
-      "PasswordReset",
-      "BuyerImpersonation"
-    ]
+  "bootswatchtheme": "flatly"
 }
